@@ -1,4 +1,4 @@
-# Circadian Transcriptomic Re-analysis of Human MDD Brain Tissue
+# Circadian Transcriptomic Analysis of Human MDD Brain Tissue
 
 ## Overview
 This repository contains the Python scripts and data analysis pipeline for investigating chronobiological disruptions in Major Depressive Disorder (MDD). The analysis applies the **TEMPO** algorithm (Auerbach et al., 2022) to estimate circadian phases and amplitudes from human postmortem bulk RNA-seq data.
